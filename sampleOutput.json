@@ -1,0 +1,267 @@
+{
+    "status": "ok",
+    "totalResults": 37,
+    "articles": [
+        
+       
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "The Last of Us: Season 1 Review - IGN",
+            "description": "Check out our The Last of Us Season 1 review. HBO's The Last of Us TV show is a stunning adaptation that should thrill newcomers and enrich those already fam...",
+            "url": "https://www.youtube.com/watch?v=XS3ImpFTxIQ",
+            "urlToImage": "https://i.ytimg.com/vi/XS3ImpFTxIQ/maxresdefault.jpg",
+            "publishedAt": "2023-01-10T08:01:59Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Asia shares dip on hawkish Fed remarks; recession risk weighs on commodities, oil - Reuters",
+            "description": "Asian shares fell on Tuesday, commodities shed recent gains from China's reopening, and oil traded lower following hawkish comments from two U.S. Federal Reserve officials overnight, with investors turning cautious ahead of key inflation data.",
+            "url": "https://www.reuters.com/markets/global-markets-wrapup-1-2023-01-10/",
+            "urlToImage": "https://www.reuters.com/resizer/J9yWDCDc49ri7TF1oZqMTuFRfVc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/NX7BPG5IQZIRHBQO5FTWRTPXIY.jpg",
+            "publishedAt": "2023-01-10T06:28:00Z",
+            "content": "HONG KONG, Jan 10 (Reuters) - Asian shares fell on Tuesday, commodities shed recent gains from China's reopening, and oil traded lower following hawkish comments from two U.S. Federal Reserve officia… [+3101 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Chuck Culpepper",
+            "title": "Georgia thumps TCU, wins second straight CFP championship - The Washington Post",
+            "description": "Bulldogs start fast and never look back, hammering the Horned Frogs, 65-7, to win its second straight national championship.",
+            "url": "https://www.washingtonpost.com/sports/2023/01/09/georgia-tcu-cfp-national-championship/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XU5HUP5Y6WDLLZDYEW4LRR45HQ.jpg&w=1440",
+            "publishedAt": "2023-01-10T05:44:40Z",
+            "content": "Comment on this story\r\nINGLEWOOD, Calif. A rainy day around Los Angeles seemed an opportune time to step indoors for an art exhibit, and 72,628 wound up doing just that Monday whether they wound up l… [+5643 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SamMobile"
+            },
+            "author": "SamMobile, Asif Iqbal Shaik",
+            "title": "Galaxy S23 leather cases leak ahead of announcement - SamMobile - Samsung news",
+            "description": "Samsung usually launches a bunch of accessories for its high-end smartphones and tablets. This year, too, the company is expected ...",
+            "url": "https://www.sammobile.com/news/galaxy-s23-ultra-leather-case-leak/",
+            "urlToImage": "https://www.sammobile.com/wp-content/uploads/2023/01/Samsung-Galaxy-S22-Ultra-Leather-Back-Cover-Black-720x405.jpg",
+            "publishedAt": "2023-01-10T05:26:00Z",
+            "content": "Samsung usually launches a bunch of accessories for its high-end smartphones and tablets. This year, too, the company is expected to launch various first-party cases and covers for the Galaxy S23, Ga… [+1355 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "U.S. banks get ready for shrinking profits and recession - Reuters",
+            "description": "U.S. banking giants are forecast to report lower fourth quarter profits this week as lenders stockpile rainy-day funds to prepare for an economic slowdown that is battering investment banking.",
+            "url": "https://www.reuters.com/business/finance/us-banks-get-ready-shrinking-profits-recession-2023-01-10/",
+            "urlToImage": "https://www.reuters.com/resizer/bXCa5xSIoWEvcuHn-hMSjgPwen8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XBJAQZCCINIXTDWXUUAYEEYDR4.jpg",
+            "publishedAt": "2023-01-10T05:11:00Z",
+            "content": "NEW YORK, Jan 10 (Reuters) - U.S. banking giants are forecast to report lower fourth quarter profits this week as lenders stockpile rainy-day funds to prepare for an economic slowdown that is batteri… [+3831 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Christopher Weber",
+            "title": "California flooding: All of Montecito under evacuation order - The Associated Press",
+            "description": "LOS ANGELES (AP) — As another powerful storm walloped California, a 5-year-old boy was swept away by floodwaters Monday on the state’s central coast and an entire seaside community that is home to Prince Harry, Oprah Winfrey and other celebrities was ordered …",
+            "url": "https://apnews.com/article/california-flooding-Montecito-evacuation-order-7c151eeaf3f567a125d74245173327f1",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/4dfa7872f4b449d8bd5143c0ec6fed9f/3000.webp",
+            "publishedAt": "2023-01-10T04:49:59Z",
+            "content": "LOS ANGELES (AP) As another powerful storm walloped California, a 5-year-old boy was swept away by floodwaters Monday on the states central coast and an entire seaside community that is home to Princ… [+6333 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Stetson Bennett lost for words after emotional BACK-TO-BACK Championship | ESPN College Football - ESPN",
+            "description": "An emotional Georgia QB Stetson Bennett speaks to Holly Rowe about winning his second national championship back-to-back and receiving a curtain call in his ...",
+            "url": "https://www.youtube.com/watch?v=Xj8mmX32bs0",
+            "urlToImage": "https://i.ytimg.com/vi/Xj8mmX32bs0/maxresdefault.jpg",
+            "publishedAt": "2023-01-10T04:15:42Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Spaceflight Now"
+            },
+            "author": null,
+            "title": "Watch live: SpaceX launches from Florida; California launch delayed – Spaceflight Now - Spaceflight Now",
+            "description": null,
+            "url": "https://spaceflightnow.com/2023/01/10/falcon-9-oneweb-16-live-coverage/",
+            "urlToImage": null,
+            "publishedAt": "2023-01-10T04:13:45Z",
+            "content": "Watch a replay of our coverage of the countdown and launch of a SpaceX Falcon 9 rocket at 11:50 p.m. EST (0450 GMT) from Space Launch Complex 40 at Cape Canaveral Space Force Station, Florida, with 4… [+7485 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Disney boss calls for workers to return to office four days a week - BBC",
+            "description": "From the start of March employees will be asked to be in the office from Monday to Thursday.",
+            "url": "https://www.bbc.com/news/business-64218702",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0356/production/_128245800_bobigerandmickey.jpg",
+            "publishedAt": "2023-01-10T04:01:05Z",
+            "content": "Disney's boss has called on employees who are currently working from home to start going into the office for four days a week from the start of March.\r\nChief executive Bob Iger said so-called \"hybrid… [+2071 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Virgin Orbit suffers in-flight anomaly during historic first mission from UK - The Hill",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMie2h0dHBzOi8vdGhlaGlsbC5jb20vcG9saWN5L3RlY2hub2xvZ3kvMzgwNjI5MC12aXJnaW4tb3JiaXQtc3VmZmVycy1pbi1mbGlnaHQtYW5vbWFseS1kdXJpbmctaGlzdG9yaWMtZmlyc3QtbWlzc2lvbi1mcm9tLXVrL9IBf2h0dHBzOi8vdGhlaGlsbC5jb20vcG9saWN5L3RlY2hub2xvZ3kvMzgwNjI5MC12aXJnaW4tb3JiaXQtc3VmZmVycy1pbi1mbGlnaHQtYW5vbWFseS1kdXJpbmctaGlzdG9yaWMtZmlyc3QtbWlzc2lvbi1mcm9tLXVrL2FtcC8?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-01-10T02:54:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Trish Turner",
+            "title": "House Republicans pass legislation trying to block new IRS funding - ABC News",
+            "description": "Conservatives misleadingly claim the money would be for 87,000 new agents.",
+            "url": "https://abcnews.go.com/Politics/house-republicans-set-pass-law-block-irs-funding/story?id=96319864",
+            "urlToImage": "https://s.abcnews.com/images/Politics/irs-file-gty-jef-230109_1673310532276_hpMain_16x9_992.jpg",
+            "publishedAt": "2023-01-10T02:17:18Z",
+            "content": "House Republicans on Monday night made good on a campaign promise by approving a bill that would zero-out funding from the Inflation Reduction Act (IRA), which is intended to dramatically increase th… [+4698 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "HarpersBAZAAR.com"
+            },
+            "author": "Rosa Sanchez",
+            "title": "Prince Harry Was \"Embarrassed\" to Have Will and Kate at His and Meghan's Less-Lavish Home - Harper's BAZAAR",
+            "description": "In Spare, he says the Waleses’ home is “like a museum,” while his and Meghan’s Nottingham Cottage had IKEA furniture and a secondhand couch, which they bought with her credit card.",
+            "url": "https://www.harpersbazaar.com/celebrity/latest/a42433953/prince-harry-embarrassed-ikea-furniture-home-spare/",
+            "urlToImage": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-997307960-1673283558.jpg?crop=1.00xw:0.805xh;0,0.0231xh&resize=1200:*",
+            "publishedAt": "2023-01-10T01:52:51Z",
+            "content": "In his memoir, Spare, Prince Harry speaks extensively about how differently he and his brother, Prince William, the heir to the throne, have been treated all their lives.\r\nThe title of the book is a … [+1721 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Ryan Gaydos",
+            "title": "Steelers' Alex Highsmith apologizes for CPR sack celebration, says it wasn't intentional - Fox News",
+            "description": "Pittsburgh Steelers linebacker Alex Highsmith apologized for the CPR sack celebration at the end of the win over the Cleveland Browns on Sunday.",
+            "url": "https://www.foxnews.com/sports/steelers-alex-highsmith-apologizes-cpr-sack-celebration-says-wasnt-intentional",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/01/Alex-Highsmith2.jpg",
+            "publishedAt": "2023-01-10T01:43:00Z",
+            "content": "Pittsburgh Steelers linebacker Alex Highsmith apologized for the CPR sack celebration that he was a part of toward the end of the teams win over the Cleveland Browns on Sunday.\r\nSteelers defensive en… [+2469 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Jeremy Herb, Manu Raju, Melanie Zanona, Kristin Wilson, Annie Grayer",
+            "title": "House Republicans pass rules package in key test for McCarthy - CNN",
+            "description": "House Republicans on Monday approved a rules package for the 118th Congress, in what marked the first test of House Speaker Kevin McCarthy's ability to navigate his slim Republican majority.",
+            "url": "https://www.cnn.com/2023/01/09/politics/house-rules-package-vote/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230109184327-07-kevin-mccarthy-0109.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-01-10T01:25:00Z",
+            "content": "House Republicans on Monday approved a rules package for the 118th Congress, in what marked the first test of House Speaker Kevin McCarthys ability to navigate his slim Republican majority.\r\nThe rule… [+5911 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Classified documents from Biden's time as VP discovered in private office - CNN",
+            "description": "Several classified documents from President Joe Biden’s time as vice president were discovered last fall in a private office, Biden’s attorneys acknowledged ...",
+            "url": "https://www.youtube.com/watch?v=SXalZ4xzMz4",
+            "urlToImage": "https://i.ytimg.com/vi/SXalZ4xzMz4/maxresdefault.jpg",
+            "publishedAt": "2023-01-10T01:14:53Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "6-year-old who shot Virginia teacher used gun legally purchased by his mother, police say - USA TODAY",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMif2h0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9uZXdzL25hdGlvbi8yMDIzLzAxLzA5L3ZpcmdpbmlhLXRlYWNoZXItNi15ZWFyLW9sZC1zdHVkZW50LWF1dGhvcml0aWVzLWd1bi1zaG9vdGluZy8xMTAyMDIwOTAwMi_SAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-01-10T00:56:51Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Colleen Long",
+            "title": "Biden, López Obrador open Mexico meetings with brusque talk - The Associated Press - en Español",
+            "description": "MEXICO CITY (AP) — Mexican President Andres Manuel López Obrador challenged U.S. President Joe Biden to end an attitude of “abandonment” and “disdain” for Latin America and the Caribbean as the two leaders met on Monday, making for a brusque opening to a summ…",
+            "url": "https://apnews.com/article/biden-north-america-summit-mexico-updates-871328ff21fc6a87b698742f6e9ed3d4",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/16ce0a771d0b40459677537c0b77334c/3000.webp",
+            "publishedAt": "2023-01-10T00:49:56Z",
+            "content": "MEXICO CITY (AP) Mexican President Andres Manuel López Obrador challenged U.S. President Joe Biden to end an attitude of abandonment and disdain for Latin America and the Caribbean as the two leaders… [+7432 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Page Six"
+            },
+            "author": "Nicki Cox",
+            "title": "Anna Kendrick made embryos with 'toxic' ex who had feelings for someone else - Page Six",
+            "description": "The 37-year-old said her “toxic” ex-boyfriend — who she did not identify — would “scream” at her until she was “curled in a ball, sobbing.”",
+            "url": "https://pagesix.com/2023/01/09/anna-kendrick-reveals-she-made-embryos-with-a-toxic-ex/",
+            "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2023/01/anna-kendrick-talks-ex.jpg?quality=75&strip=all&w=1200",
+            "publishedAt": "2023-01-10T00:48:00Z",
+            "content": "Anna Kendrick was ready to start a family with a “toxic” ex-boyfriend before learning he had feelings for another woman. \r\nThe 37-year-old actress revealed on Monday’s episode of the “Armchair Expert… [+2256 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Neurosciencenews.com"
+            },
+            "author": "Neuroscience News",
+            "title": "A Vaccine Against COVID-19 Found to Protect Against Infection and Brain Damage Caused by the Virus - Neuroscience News",
+            "description": "A new COVID-19 vaccine developed by researchers at the CNB-CSIC appears to protect against infection of the brain and neurological symptoms associated with coronavirus.",
+            "url": "https://neurosciencenews.com/neuroprotective-covid-vaccine-22208/",
+            "urlToImage": "https://neurosciencenews.com/files/2023/01/neuroprotection-covid-vaccine-neurosinces-public.jpg",
+            "publishedAt": "2023-01-10T00:27:07Z",
+            "content": "Summary: A new COVID-19 vaccine developed by researchers at the CNB-CSIC appears to protect against infection of the brain and neurological symptoms associated with coronavirus.\r\nSource: University o… [+6117 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Beth Mole",
+            "title": "Pediatricians now recommend drugs and surgery for kids with obesity - Ars Technica",
+            "description": "Doctors step up fight against childhood obesity, say \"watchful waiting\" doesn't work.",
+            "url": "https://arstechnica.com/science/2023/01/pediatricians-now-recommend-drugs-and-surgery-for-kids-with-obesity/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2019/12/GettyImages-629405043-760x380.jpg",
+            "publishedAt": "2023-01-10T00:14:42Z",
+            "content": "116 with 0 posters participating\r\nChildren as young as 12 with obesity should now consider taking weight loss drugs, and those as young as 13 with severe obesity should consider metabolic or bariatri… [+3490 chars]"
+        }   ]
+}
